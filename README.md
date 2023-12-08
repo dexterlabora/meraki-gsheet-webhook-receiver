@@ -4,6 +4,8 @@
 
 This Google Sheets script is designed to act as a webhook receiver for Meraki alerts and callbacks. When set up, it captures data sent by Meraki systems and formats this information within a Google Sheet. This setup is ideal for network administrators and IT professionals who use Meraki products and want an easy way to log and analyze alerts and callback data.
 
+<img src="webhook-gsheet-callback-screenshot.png" width="800px">
+
 ## Features
 
 - **Webhook Receiver**: Captures Meraki alerts and callback data sent to the Google Sheets app.
